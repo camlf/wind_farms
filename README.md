@@ -5,19 +5,19 @@
 
 
 Click the button below to launch a notebook sample on [Binder](https://mybinder.org/):<br>
-[![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=launch&message=Binder%0A%2B%0AAVEVA_DataHub&color=3d1152)](https://ovh.mybinder.org/v2/gh/academic-hub/notebooks-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Facademic-hub%252FCSM-PEGN552%26urlpath%3Dtree%252FCSM-PEGN552%252F%26branch%3Dmain)
+[![Binder](https://img.shields.io/static/v1.svg?logo=Jupyter&label=launch&message=Binder%0A%2B%0AAVEVA_DataHub&color=3d1152)](https://ovh.mybinder.org/v2/gh/academic-hub/notebooks-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Facademic-hub%252Fwind_farms%26urlpath%3Dtree%252Fwind_farms%252F%26branch%3Dmain)
 
 The notebook can also be ran on [Google Colab](https://colab.research.google.com/) with its handy access to Google Drive:<br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/academic-hub/CSM-PEGN552/blob/main/Windfarm_PEGN552.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/academic-hub/wind_farms/blob/main/Wind_Farm_Power_Prediction.ipynb)
 
 [Deepnote](https://deepnote.com/) is a nice service for cooperation, give it a try:<br>
-[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Facademic-hub%2FCSM-PEGN552)
+[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Facademic-hub%2Fwind_farms)
 
 ## Instructions for TAs
 
 ### Overview
 
-This repository (https://github.com/academic-hub/CSM-PEGN552) is a class notebook template to seed other repositories you can then modify at will. 
+This repository (https://github.com/academic-hub/wind_farms) is a class notebook template to seed other repositories you can then modify at will. 
 
 In summary it contains:
 
@@ -37,7 +37,7 @@ Prerequisites:
 
 We recommend [Github desktop](https://desktop.github.com/) for dealing with Github repository. **The steps below assumes it is already installed on your laptop.**
 
-1. Go to https://github.com/academic-hub/CSM-PEGN552 and click the "Use this template" button:<br>![](https://academichub.blob.core.windows.net/hub/binder/hub-ta-binder-step1.png)<br><br>
+1. Go to https://github.com/academic-hub/wind_farms and click the "Use this template" button:<br>![](https://academichub.blob.core.windows.net/hub/binder/hub-ta-binder-step1.png)<br><br>
 2. Fill in the information as indicated below to create a new repository:<br>![](https://academichub.blob.core.windows.net/hub/binder/hub-ta-binder-step2.png)<br><br>
 3. Clone the repository on your laptop with the simple step shown below:<br>![](https://academichub.blob.core.windows.net/hub/binder/hub-ta-binder-step3.png)<br><br>
 4. Modify the content for the class as needed. Note that an installation of [Anaconda](https://repo.anaconda.com/archive/Anaconda3-5.3.1-Windows-x86_64.exe) is required to modify and run the notebook 
