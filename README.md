@@ -9,7 +9,10 @@ The notebook can also be ran on [Google Colab](https://colab.research.google.com
 [Deepnote](https://deepnote.com/) is a nice service for cooperation, give it a try:<br>
 [<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Facademic-hub%2Fwind_farms)
 
+A fully executed version of the prediction notebook can be seen at https://data.academic.osisoft.com/nbviewer/github/academic-hub/wind_farms/blob/main/Wind_Farm_Power_Prediction.ipynb (screenshot below)
+
 ![](https://academichub.blob.core.windows.net/images/wind_farm_prediction_intro.png)
+
 
 ## Instructions for TAs
 
