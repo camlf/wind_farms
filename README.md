@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/academic-hub/wind_farms.svg?style=shield&circle-token=1ba773d62797e7ecfafc375292ff552a8af1f857)](https://circleci.com/gh/academic-hub/wind_farms?circle-token=1ba773d62797e7ecfafc375292ff552a8af1f857)
+
 # Academic Hub Wind Farms Template
 
 Click the button below to launch a notebook sample on [Binder](https://mybinder.org/):<br>
